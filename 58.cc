@@ -22,5 +22,4 @@ int lengthOfLastWord(string s)
 int main()
 {
     cout << lengthOfLastWord("a ");
-    return 0;
 }
